@@ -91,3 +91,9 @@ body{
 .rap-valume-controls{
   @apply !bg-primary/80
 }
+
+/* Active Link Styles */
+
+.active{
+  @apply border-b-2 border-accent
+}
